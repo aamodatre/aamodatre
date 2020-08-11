@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Final Year Undergraduate
-Chemical Science
-Seeing Experience
-Building a Website
+Final Year Undergraduate | 
+Chemical Science | 
+Seeing Experience | 
+Building a Website 
