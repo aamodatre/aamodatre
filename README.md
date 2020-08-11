@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Final Year Undergraduate
+Chemical Science
+Seeing Experience
+Building a Website
