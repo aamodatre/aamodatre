@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Final Year Undergraduate | 
-Chemical Science | 
-Seeing Experience | 
-Building a Website 
+Chemical Physics | 
+Seeking Experience | 
