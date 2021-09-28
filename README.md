@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Graduate | 
 Chemical Engineering & Physics | 
-Exploring quantum dynamics| 
+Exploring quantum dynamics |
