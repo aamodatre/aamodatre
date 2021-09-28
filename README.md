@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Final Year Undergraduate | 
-Chemical Physics | 
-Seeking Experience | 
+Graduate | 
+Chemical Engineering & Physics | 
+Exploring quantum dynamics| 
