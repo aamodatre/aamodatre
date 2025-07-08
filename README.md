@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Graduate | 
-Chemical Engineering & Physics | 
-Exploring quantum dynamics |
+Master's Graduate | 
+B.E. Chemical Engineering &  M. Sc. Quantum Science and Technology | Exploring quantum protocols
+
